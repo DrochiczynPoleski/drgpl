@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Anubis"
+title = "DrochiczynPoleski"
 theme = "anubis"
 paginate = 3
 
@@ -9,10 +9,10 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Dmitry Kolosov"
+name = "Tymoteusz Kaljuta"
 
 [params]
-author = "Dmitry Kolosov"
+author = "Tymoteusz Kaljuta"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
@@ -57,26 +57,29 @@ identifier = "archive"
 url = "/posts/"
 weight = 3
 
-[languages.pl]
-languageName = "Polski"
+[languages.ru]
+languageName = "Russian"
 
-[[languages.pl.menu.main]]
+[[languages.ru.menu.main]]
 identifier = "about"
-name = "O Hugo"
+name = "О Авторе"
 url = "/about/"
 weight = 1
 
-[[languages.pl.menu.main]]
+[[languages.ru.menu.main]]
 identifier = "tags"
-name = "Tagi"
+name = "Теги"
 url = "/tags/"
 weight = 2
 
-[[languages.pl.menu.main]]
+[[languages.ru.menu.main]]
 identifier = "archive"
-name = "Archiwum"
+name = "Архив"
 url = "/posts/"
 weight = 3
+
+[[languages.ru.params]]
+locale = "ru-ru"
 
 [taxonomies]
 category = "categories"
