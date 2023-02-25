@@ -44,10 +44,6 @@ url = "https://www.linkedin.com/in/tymoteusz-kaljuta-180b97216/"
 id = "telegram"
 url = "https://t.me/+Z7Ad_SV6jFphNzhk"
 
-[[params.social]]
-id = "email"
-url = "timkaljuta@gmail.com"
-
 [languages.en]
 languageName = "English"
 
