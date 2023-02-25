@@ -38,10 +38,10 @@ skipToContent:
   other: "Перейти к основному контенту"
 
 darkTheme:
-  other: "Светлая тема"
+  other: "Сменить тему"
 
 lightTheme:
-  other: "Тёмная тема"
+  other: "Сменить тему"
 
 readNext:
   other: "Читать далее"
