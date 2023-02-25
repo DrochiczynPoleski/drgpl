@@ -1,18 +1,20 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Поместье Толковой</title>
-</head>
-<body>
+---
+author: Tymoteusz Kaljuta
+title: Math Typesetting
+date: 2023-02-25
+description: The manor of Pani Tolkova
+tags = [
+    "Толково",
+    "Толково",
+]
+math: true
+---
+
+  <р3>Поместье Толковой</р3>
   <p>В литовском архиве имеется план поместья Толковой за 18 сентября 1839 года.
 Как можем видеть поместье называется на плане «Поместье Толковой». А само название «Толково» как деревни, образуется из 3-х тамошних деревень. Кагалы, Казаны и Яцкивцы.</p>
-
 <object data="https://drive.google.com/file/d/1_YmG5LQ1zEs-84lmxn25iqO14XsLmunG/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1_YmG5LQ1zEs-84lmxn25iqO14XsLmunG/view?usp=sharing">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1_YmG5LQ1zEs-84lmxn25iqO14XsLmunG/view?usp=sharing">Скачать PDF</a>.</p>
     </embed>
 </object>
-
-</body>
-</html>
