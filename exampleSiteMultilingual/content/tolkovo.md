@@ -16,10 +16,7 @@ favorite = true
 <p>In the Lithuanian archive there is a plan of Tolkova manor from September 18, 1839.
 As we can see the manor is called on the plan "Tolkovo Manor". And the very name "Tolkovo" as a village, is formed from 3 villages there. Kagaly, Kazany and Yatskivtsi.</p>
 
-<img src="https://drive.google.com/file/d/1-VWTKc-xZ1Q4DVrt3DhnFEhZStHRvzS-/view?usp=sharing"
-     alt="sample image"
-     style="display: block; margin-right: auto; margin-left: auto; width: 90%;
-     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
+<a href="https://drive.google.com/file/d/1-VWTKc-xZ1Q4DVrt3DhnFEhZStHRvzS-/view?usp=sharing><img src="https://drive.google.com/file/d/1-VWTKc-xZ1Q4DVrt3DhnFEhZStHRvzS-/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 
 
