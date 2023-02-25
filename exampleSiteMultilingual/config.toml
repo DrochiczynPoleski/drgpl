@@ -40,7 +40,7 @@ url = "https://github.com/mitrichius/hugo-theme-anubis"
 languageName = "English"
 
 [[menu.main]]
-identifier = "about.en"
+identifier = "about"
 name = "About"
 url = "/about/"
 weight = 1
@@ -61,7 +61,7 @@ weight = 3
 languageName = "Russian"
 
 [[languages.ru.menu.main]]
-identifier = "about"
+identifier = "about.ru"
 name = "О Авторе"
 url = "/about/"
 weight = 1
