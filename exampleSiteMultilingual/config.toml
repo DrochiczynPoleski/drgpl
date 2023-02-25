@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 title = "DrochiczynPoleski"
 theme = "anubis"
 paginate = 3
