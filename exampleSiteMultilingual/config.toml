@@ -13,10 +13,10 @@ name = "Tymoteusz Kaljuta"
 
 [params]
 author = "Tymoteusz Kaljuta"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
+description = "DrochiczynPoleski history and family small motherland"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
-style = "auto"
+style = "dark"
 readMore = false
 readNextPosts = 2
 copyCodeButton = true
