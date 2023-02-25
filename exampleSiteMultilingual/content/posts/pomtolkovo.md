@@ -3,10 +3,8 @@ author: Tymoteusz Kaljuta
 title: Math Typesetting
 date: 2023-02-25
 description: The manor of Pani Tolkova
-tags = [
-    "Tolkovo",
-    "Tolkovo",
-]
+tags = ["Tolkovo", "Tolkovo"]
+
 math: true
 ---
 
