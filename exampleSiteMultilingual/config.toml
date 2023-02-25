@@ -63,7 +63,7 @@ languageName = "Russian"
 [[languages.ru.menu.main]]
 identifier = "about.ru"
 name = "О Авторе"
-url = "/about/"
+url = "/about.ru/"
 weight = 1
 
 [[languages.ru.menu.main]]
