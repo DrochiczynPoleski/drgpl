@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-defaultContentLanguage = "ru"
+defaultContentLanguage = "en"
 title = "DrochiczynPoleski"
 theme = "anubis"
 paginate = 3
@@ -16,7 +16,7 @@ author = "Tymoteusz Kaljuta"
 description = "DrochiczynPoleski history and family small motherland"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
-style = "dark"
+style = "auto"
 readMore = false
 readNextPosts = 2
 copyCodeButton = true
