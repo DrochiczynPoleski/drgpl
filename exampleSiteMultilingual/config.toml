@@ -61,9 +61,9 @@ weight = 3
 languageName = "Russian"
 
 [[languages.ru.menu.main]]
-identifier = "about.ru"
+identifier = "about"
 name = "О Авторе"
-url = "/about.ru/"
+url = "/about/"
 weight = 1
 
 [[languages.ru.menu.main]]
