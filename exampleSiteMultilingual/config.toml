@@ -29,12 +29,24 @@ utterancesIssue = "" # optional
 utterancesLabel = "" # optional
   
 [[params.social]]
-id = "docs"
-url = "https://gohugo.io/documentation/"
+id = "facebook"
+url = "https://www.facebook.com/timkaljuta"
 
 [[params.social]]
-id = "github"
-url = "https://github.com/mitrichius/hugo-theme-anubis"
+id = "instagram"
+url = "https://www.instagram.com/drohiczynpoleski"
+
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/in/tymoteusz-kaljuta-180b97216/"
+
+[[params.social]]
+id = "telegram"
+url = "https://t.me/+Z7Ad_SV6jFphNzhk"
+
+[[params.social]]
+id = "email"
+url = "timkaljuta@gmail.com"
 
 [languages.en]
 languageName = "English"
