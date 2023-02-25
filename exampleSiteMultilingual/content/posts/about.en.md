@@ -1,5 +1,5 @@
 ---
-title: 'Our Difference'
+title: ''
 button: 'About us'
 weight: 2
 ---
