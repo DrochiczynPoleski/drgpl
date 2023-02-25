@@ -7,6 +7,7 @@ tags = [
     "markdown",
     "text",
 ]
+hidden = true
 +++
 
 Lorem est tota propiore conpellat pectoribus de

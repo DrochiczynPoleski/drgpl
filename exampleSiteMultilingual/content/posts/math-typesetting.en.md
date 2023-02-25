@@ -32,7 +32,7 @@ In this example we will be using [KaTeX](https://katex.org/)
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 {{ end }}
 {{</ math.inline >}}
-
+hidden = true
 ### Examples
 
 Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
@@ -43,3 +43,4 @@ $$
  \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
 $$
 
+hidden = true

@@ -6,6 +6,7 @@ description = "Guide to emoji usage in Hugo"
 tags = [
     "emoji",
 ]
+hidden = true
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways. 
@@ -45,3 +46,4 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
 }
 </style>
 {{< /css.inline >}}
+
