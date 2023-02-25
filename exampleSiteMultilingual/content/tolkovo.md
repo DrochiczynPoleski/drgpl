@@ -21,4 +21,6 @@ As we can see the manor is called on the plan "Tolkovo Manor". And the very name
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
 
+
+
 [Download File](https://drive.google.com/file/d/1_YmG5LQ1zEs-84lmxn25iqO14XsLmunG/view?usp=sharing)
